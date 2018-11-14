@@ -1,4 +1,4 @@
-# HIGHLIGHTING CODE IN JSX
+# UPLOADING FILE WITH MULTER
 Helly guys, in this code I will show you how to upload files in Node JS. The main functionality of this code will be to upload images to the server and server them as a static file.
 
 Whether this project helped, please donate for a coffee.

@@ -1,7 +1,7 @@
 const express = require('express');
 const router = express.Router();
-const imageUploader = require('./imageUploader');
+const upload = require('./upload');
 
-router.put('/upload', imageUploader);
+router.put('/upload', upload);
 
 module.exports = router;
